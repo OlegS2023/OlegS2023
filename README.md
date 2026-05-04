@@ -59,6 +59,6 @@ A clean, minimal technical portfolio with my projects, skills, and learning path
 
 ## 🌐 Connect
 
-**Portfolio:** [https://oleg-szoka.github.io  ](https://olegs2023.github.io/portfolio/)
+**Portfolio:** [https://oleg-szoka.github.io  ](https://olegs2023.github.io/portfolio/)/
 **LinkedIn:** https://www.linkedin.com/in/oleg-szoka-008447211/  
 **Email:** olegszoka@gmail.com

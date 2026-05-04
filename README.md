@@ -65,8 +65,7 @@ Daily work includes **3D modeling, NC programming, and engineering problem‑sol
 
 - Deep Learning (CNN, RNN, LSTM, generative models)  
 - Robotics + ML integration  
-- Python tools for automation  
-- Building my ML/Robotics portfolio  
+  
 
 ---
 

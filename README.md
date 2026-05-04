@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Oleg 👋
 
-<!--
-**OlegS2023/OlegS2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Process Engineer → Robotics → Machine Learning**
 
-Here are some ideas to get you started:
+I build practical automation systems and explore how robotics and deep learning can work together.  
+My background is a mix of industrial engineering, robot programming, and ML — and I’m documenting that journey here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+### Robotics & Automation
+<p>
+  <img src="https://img.shields.io/badge/Universal%20Robots-0097A7?logo=universalrobots&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-000000?logo=siemens&logoColor=white" />
+</p>
+
+### Engineering & Tools
+<p>
+  <img src="https://img.shields.io/badge/CATIA-005386?logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Certifications
+
+- Deep Learning Specialization — Andrew Ng  
+- Machine Learning Specialization — Andrew Ng  
+- Generative Deep Learning with TensorFlow  
+
+---
+
+## 🚀 What I'm focusing on now
+
+- Deep Learning (CNN, RNN, LSTM, generative models)  
+- Robotics + ML integration  
+- Python tools for automation  
+- Building my ML/Robotics portfolio  
+
+---
+
+## 🌐 Connect
+
+**LinkedIn:** https://www.linkedin.com/in/oleg-szoka-008447211/  
+**Email:** olegszoka@gmail.com

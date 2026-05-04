@@ -34,7 +34,7 @@ Working with:
 </p>
 
 Experience with:  
-**UR programming, Fanuc, Omron, Robodrill automation, 3D vision systems, workstation design, robot integration, NC code for machining, production troubleshooting.**  
+**UR programming, Fanuc, Omron, Robodrill automation, vision systems, workstation design, robot integration, NC code for machining, production troubleshooting.**  
 PLC basics (not my main focus, but I understand the fundamentals).
 
 ---

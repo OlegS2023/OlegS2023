@@ -7,6 +7,13 @@ My background is a mix of industrial engineering, robot programming, and ML — 
 
 ---
 
+## 🔗 My Portfolio
+
+👉 **https://oleg-szoka.github.io**  
+A clean, minimal technical portfolio with my projects, skills, and learning path.
+
+---
+
 ## 🔧 Tech Stack
 
 ### Machine Learning & Data Science
@@ -52,5 +59,6 @@ My background is a mix of industrial engineering, robot programming, and ML — 
 
 ## 🌐 Connect
 
+**Portfolio:** https://oleg-szoka.github.io  
 **LinkedIn:** https://www.linkedin.com/in/oleg-szoka-008447211/  
 **Email:** olegszoka@gmail.com

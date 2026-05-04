@@ -53,7 +53,7 @@ A clean, minimal technical portfolio with my projects, skills, and learning path
 - Deep Learning (CNN, RNN, LSTM, generative models)  
 - Robotics + ML integration  
 - Python tools for automation  
-- Building my ML/Robotics portfolio  
+
 
 ---
 

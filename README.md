@@ -5,8 +5,6 @@
 I work at the intersection of robotics, automation, and machine learning.  
 I like building things that actually work — robots, automation tools, production machines, and ML models that support engineering decisions.
 
-If you want to see what I’m building, check my portfolio 👇  
-👉 **https://olegs2023.github.io/portfolio/**
 
 ---
 
